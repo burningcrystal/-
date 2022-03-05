@@ -1,0 +1,5 @@
+
+return : 返回
+The least exciting situation is when an SSRF vulnerability only allows you to communicate
+with a limited number of external websites. : 最令人兴奋的情况是当一个SSRF漏洞只允许你进行交流
+Invoking GET Versus POST Requests : 调用GET和POST请求
