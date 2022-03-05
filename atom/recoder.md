@@ -10,6 +10,12 @@
  - split
  - trimspace:去掉输入首尾无用的空格字符
  - Atoi:将端口从字符串转换到数字。因为我们需要对端口大小进行逻辑验证，数字更适合。
+
+# 工具使用方法
+在命令行输入`atom.exe  ip ports`  
+![image](https://user-images.githubusercontent.com/77475242/156884962-fac85546-a8e9-445e-bb1e-29d741d4c480.png)
+端口段用-作分隔，ip列表用,做分隔。  
+
  # step 3  
  通过并发加快扫描速度。  
  # TODO：IP去重  
